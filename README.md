@@ -36,9 +36,10 @@ I'm a Full-Stack Engineer with a strong educational background in Computer Engin
 <a href="https://www.github.com/Nuh0804" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 <a href="https://www.linkedin.com/in/nuh-saidi-buhero-3690a2281/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
 </p>
-### Badges
+<b>Badges</b>
 
-<a href="https://www.credly.com/badges/fcc524b9-4d1e-4e31-8a70-5ee05a1ed5be" target="_blank" rel="noreferrer"><img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-945f-4e366814625b/aws-certified-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner" /></a>
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)]([YOUR_UNIQUE_PUBLIC_URL](https://www.credly.com/badges/fcc524b9-4d1e-4e31-8a70-5ee05a1ed5be))
+
 
 <b>My GitHub Stats</b>
 
@@ -52,7 +53,7 @@ I'm a Full-Stack Engineer with a strong educational background in Computer Engin
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/Nuh0804/bulk-sms" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Nuh0804&repo=Pixel-Craft&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/Nuh0804/bulk-sms" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Nuh0804&repo=bulk-sms&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 ### Lynx
 
